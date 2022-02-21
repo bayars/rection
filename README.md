@@ -9,8 +9,9 @@ Welcome my GitHub profile. I’m currently working on DevOps and Linux Tools.
 
 ### My Stats 🔭
 <a href="https://github.com/rection/github-readme-stats">
-![rection's GitHub stats](https://github-readme-stats.vercel.app/api?username=rection&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rection&layout=compact)](https://github.com/rection/github-readme-stats)
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rection&show_icons=true&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rection&layout=compact" />
+
 </a>
 
 
@@ -19,3 +20,5 @@ Welcome my GitHub profile. I’m currently working on DevOps and Linux Tools.
 
 
 
+![rection's GitHub stats]()
+[![Top Langs]()](https://github.com/rection/github-readme-stats)
