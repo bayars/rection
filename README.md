@@ -31,11 +31,5 @@ Here are some ideas to get you started:
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=sbayar2012&width=800&count=5&unique=yes)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=rection&theme=<THEME_NAME>" />
-
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rection&layout=compact)](https://github.com/rection/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rection&langs_count=8)](https://github.com/rection/github-readme-stats)
 
