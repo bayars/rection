@@ -16,8 +16,3 @@ Welcome my GitHub profile. I’m currently working on DevOps and Linux Tools.
 </a>
     
 <br>
-    
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=sbayar2012&unique=yes&width=800&count=5)
-
-
